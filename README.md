@@ -41,6 +41,10 @@ THEN I am again presented with current and future conditions for that city
 ![](./assets/images/weather-dash-ref-1.png)
 ![](./assets/images/weather-dash-ref-2.png)
 
+## Contributions
+Thank you to my outside tutor, Jordan Hessler, who helped me with calling an API <br>
+Thank you to the Homework Walkthrough Help that was provided via Jeff Howell, SSM <br>
+Helped Video Source: <a href="https://zoom.us/rec/play/PtTcqBxCMXkgjysRJ8HTKBLQbQpAeN4AXfnp40Isrfy0lTJJdr3Ms1fEVMym5a25GAVBHS4oodPQ1ww.wgxFvQKy3_tMyDVh?autoplay=true&startTime=1646114512000">Video Walkthrough</a>
 
 - - -
 © 2021 Rachel Delaney Marron, Inc. All Rights Reserved 
