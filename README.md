@@ -1,7 +1,7 @@
 ## Weather Dashboard
 
 ## Link to Deployed Assets
-https://racheldmarron.github.io/city-weather-dashboard/
+https://racheldmarron.github.io/city-weather-dashboard.v2/
 
 ## Overview 
 Through APIs, JavaScript, HTML, and CSS, I created a weather dashboard where consumers can search and view current and 5-day forcasts of their desired city. 
